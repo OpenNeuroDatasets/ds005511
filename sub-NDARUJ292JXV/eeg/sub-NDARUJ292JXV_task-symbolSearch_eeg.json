@@ -1,0 +1,9 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "symbolSearch",
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 231.416,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
