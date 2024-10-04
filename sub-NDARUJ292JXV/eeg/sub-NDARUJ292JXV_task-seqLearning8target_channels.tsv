@@ -1,7 +1,7 @@
 name	type	units
-E1	EEG	microV
-E2	EEG	microV
-E3	EEG	microV
-E4	EEG	microV
-E5	EEG	microV
-E6	EEG	microV
+E1	EEG	uV
+E2	EEG	uV
+E3	EEG	uV
+E4	EEG	uV
+E5	EEG	uV
+E6	EEG	uV
