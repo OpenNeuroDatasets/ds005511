@@ -1,9 +1,0 @@
-{
-  "PowerLineFrequency": 60,
-  "TaskName": "DespicableMe",
-  "EEGReference": "common",
-  "RecordingType": "continuous",
-  "RecordingDuration": 175.52,
-  "SamplingFrequency": 500,
-  "SoftwareFilters": "n/a"
-}

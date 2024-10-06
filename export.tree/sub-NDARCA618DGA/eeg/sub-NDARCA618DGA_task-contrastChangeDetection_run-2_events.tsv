@@ -1,8 +1,0 @@
-onset	duration	sample	value	event_code	feedback
-0	n/a	0	left_target	8	n/a
-75.234	n/a	37617	contrastChangeB2_start	95	n/a
-84.704	n/a	42352	contrastTrial_start	5	n/a
-88.846	n/a	44423	left_target	8	n/a
-90.406	n/a	45203	left_buttonPress	12	smiley_face
-90.532	n/a	45266	contrastTrial_start	5	n/a
-93.55	n/a	46775	left_target	8	n/a
