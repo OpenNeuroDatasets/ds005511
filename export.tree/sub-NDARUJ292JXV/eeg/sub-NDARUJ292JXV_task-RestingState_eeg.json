@@ -1,9 +1,0 @@
-{
-  "PowerLineFrequency": 60,
-  "TaskName": "RestingState",
-  "EEGReference": "common",
-  "RecordingType": "continuous",
-  "RecordingDuration": 354.03,
-  "SamplingFrequency": 500,
-  "SoftwareFilters": "n/a"
-}
