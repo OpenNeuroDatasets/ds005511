@@ -1,0 +1,9 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "seqLearning8target",
+  "EEGReference": "common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 294.014,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
